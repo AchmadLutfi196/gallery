@@ -29,9 +29,9 @@ A visual portfolio generator with web hosting for your mockups and photo albums.
 - Personalize the contents at the bottom of `_config.yml`.
 - Commit all of your changes and then push all of your changes to Github by running
 ```
-$ git checkout -B gh-pages  # This creates a branch that will be hosted at {username}.github.io/gallery
-$ git commit -am "Create my first gallery"  # This saves all of your changes
-$ git push origin gh-pages  # This pushes your gallery to be hosted!
+git checkout -B gh-pages  # This creates a branch that will be hosted at {username}.github.io/gallery
+git commit -am "Create my first gallery"  # This saves all of your changes
+git push origin gh-pages  # This pushes your gallery to be hosted!
 ```
 - Check out your site at {username}.github.io/gallery 🎉✨!
 
